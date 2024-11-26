@@ -1,0 +1,6 @@
+D:\215\13 прк\13.4\bin\Debug\13.4.exe.config
+D:\215\13 прк\13.4\bin\Debug\13.4.exe
+D:\215\13 прк\13.4\bin\Debug\13.4.pdb
+D:\215\13 прк\13.4\obj\Debug\13.4.csproj.CoreCompileInputs.cache
+D:\215\13 прк\13.4\obj\Debug\13.4.exe
+D:\215\13 прк\13.4\obj\Debug\13.4.pdb
